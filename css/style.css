@@ -50,11 +50,11 @@ a:hover {
 }
 
 .font-size-set1 {
-  font-size: 32px;
+  font-size: 25px;
 }
 
 .font-size-set2 {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .news {
@@ -208,7 +208,7 @@ ul {
 }
 
 #page .jumbotron {
-  background: #f1efff url("../img/subpage-headding.jpg") no-repeat center center;
+  background: #f1efff url("../img/tournamenttop.png") no-repeat center center;
   background-size: cover;
   border-radius: initial;
 }
