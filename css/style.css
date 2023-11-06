@@ -17,6 +17,20 @@ a:hover {
   color: #a9a9a9;
 }
 
+.lineset {
+  position: relative;
+  padding-bottom: 0.5em;
+  border-bottom: 4px solid #DDD;
+}
+.lineset::after {
+  position: absolute;
+  content: " ";
+  border-bottom: solid 4px #ec4747;
+  bottom: -4px;
+  width: 8%;
+  display: block;
+}
+
 .bg-primary,
 .btn-primary {
   background-color: #003308 !important;
