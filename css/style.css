@@ -230,7 +230,7 @@ table tbody th {
   background:#fff
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 200px) {
   table {
     border: 0;
     width:100%
